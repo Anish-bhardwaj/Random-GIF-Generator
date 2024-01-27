@@ -10,4 +10,4 @@ npm start
 
 **Step 3:** Goto [http://localhost:3000](http://localhost:3000)
 
-#Live demo at https://random-gif-generator-kappa.vercel.app
+# Live demo at https://random-gif-generator-kappa.vercel.app
